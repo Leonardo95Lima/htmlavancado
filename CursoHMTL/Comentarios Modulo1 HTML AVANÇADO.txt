@@ -1,0 +1,48 @@
+Comentarios:
+
+A tag utilizada para criar uma tabela é a <TABLE></TABLE>
+Obs.: no HTML as tabelas são criada apenas com linhas e não colunas. 
+
+A Tags - 
+
+<TD></TD> - Responsavel por criar as células
+<TR> - Responsavel por criar as linhas.
+
+A Tag <TABLE> possui vários atributos que permitem,
+entre outros aspectos controlar.
+
+O ALINHAMENTO DA TABELA NA PÁGINA:
+O ALINHAMENTO DOS DADOS NAS CÉLULAS:
+A LARGURA E COR DA BORDA:
+AS DIMENSÕES DA TABELA:
+
+Colocando borda na tabela!
+Apenas a Borda:
+Tag: <TABLE BORDER="N° de pixels">
+
+borda com cor:
+TAG: <TABLE BORDER="N° de pixels" BODERCOLOR="COR">
+
+fundo da tabela com cor:
+TAG : <TABLE BGCOLOR="Cor">
+obs.: pode colocar a borda, cor da borda e a cor do fundo na mesma tag:
+EX: <TABLE BORDER="N° PIXELS" BORDERCOLOR="COR DA BORDA" BGCOLOR="COR DO FUNDO">
+
+colocando cor na tag <TR> e <TD>
+TAG TR: <TR BGCOLOR="COR">
+TAG TD: <TD BGCOLOR="COR">
+
+Para adicionar uma imagem no fundo da tabela:
+TAG: <TABLE BACKGROUND="IMAGEM COM A EXTENSÃO"
+
+Atributos WIDTH e HEIGHT
+WIDTH: LARGURA DA TABELA
+HEIGHT: ALTURA DA TABELA
+
+SINTAXE TAG TABLE: <TABLE WIDTH="VALOR" HEIGHT="VALOR">
+SINTAXE TAG TD: <TD WIDTH="VALOR" HEIGHT="VALOR">
+
+Atributo ALIGN: LEFT, CENTER, RIGHT
+Sintaxe TAG ALIGN LEFT: <TABLE ALIGN="LEFT">
+Sintaxe TAG ALIGN CENTER: <TABLE ALIGN="CENTER">
+Sintaxe TAG ALIGN RIGHT: <TABLE ALIGN="RIGHT">
